@@ -1,0 +1,25 @@
+
+.logo{
+    width: 300px;
+}
+.footer{
+    display:flex;
+    background-color: #ddd;
+    padding: 3rem 1rem;
+    margin-top: auto ;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+.socials{
+    display:flex;
+    gap: 10px;
+}
+
+.hover{
+
+    color: red !important;
+}
